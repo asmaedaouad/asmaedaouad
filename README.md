@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Asmae Daouad</h1>
-<h3 align="center">Engineering Student in AI & Digital Transformation</h3>
-
+<h1 align="center">Asmae Daouad</h1>
+<p align="center"><b>Data & AI Engineering Student</b> · ENSA Al Hoceima, Morocco</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/asmae-daouad-670141332/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -10,26 +9,19 @@
   </a>
 </p>
 
-<hr>
+---
 
-### About Me
+## About Me
 
-I'm a 4th-year engineering student at **ENSA Al Hoceima**, specializing in **Artificial Intelligence & Digital Transformation**. I'm curious by nature, and data is what keeps me curious every day — I love the moment when messy, raw numbers turn into a clear story or a working system.
+I'm an engineering student specializing in **Artificial Intelligence & Digital Transformation**. Data and AI are what keep me curious every day: I love the moment when messy, raw data turns into a clear story or a working intelligent system.
 
-**What drives me:**
+### What I'm passionate about
 
-- I'm fascinated by how **AI models learn patterns from data** and how that can be turned into something genuinely useful, not just impressive
-- I enjoy the full journey of a **data project** — collecting it, cleaning it, understanding it, and finally building something intelligent on top of it
-- I'm especially drawn to **data engineering**: designing pipelines and architectures that make data reliable and usable at scale
-- I care about applying AI to **real, local problems** — including underserved areas like Moroccan Darija NLP, where standard tools don't work well
-- I'm the type who needs to understand *why* something works, not just *that* it works
-- I'm always learning — right now digging deeper into **LLMs, NLP, and Big Data ecosystems**
+* **Data Engineering:** designing pipelines and architectures that make data reliable and usable at scale
+* **Machine Learning & Deep Learning:** understanding how models learn patterns from data, and turning them into something genuinely useful
+* **NLP & LLMs:** building systems that understand and generate language
+* **RAG & AI applications:** connecting language models to real data to answer real questions
 
-I believe that quality comes from attention to detail, responsibility, and continuous improvement. I prefer doing things the right way rather than simply getting them done.
+### How I work
 
-<hr>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/asmae-daouad-670141332/">LinkedIn</a> &nbsp;&bull;&nbsp;
-  <a href="mailto:asmae.daouad@gmail.com">Email</a>
-</p>
+I enjoy the full journey of a data project: collecting, cleaning, understanding, and building something intelligent on top of it. I care about attention to detail and continuous improvement.
